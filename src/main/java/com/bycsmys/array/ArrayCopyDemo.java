@@ -1,4 +1,4 @@
-package com.bycsmys.collection;
+package com.bycsmys.array;
 
 import java.util.Arrays;
 
