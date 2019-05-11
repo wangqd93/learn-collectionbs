@@ -63,6 +63,11 @@ public class ArrayCopyDemo {
 
     }
 
+    /**
+     * 递归拼接数组
+     * @param builder
+     * @param array
+     */
     private static void append(StringBuilder builder, Object[] array) {
         builder.append("[");
         for (int i = 0; i < array.length; i++) {
