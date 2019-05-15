@@ -17,6 +17,9 @@ https://docs.oracle.com/javase/8/docs/technotes/guides/collections/index.html
 ### java.util.Map接口
 + java.util.SortedMap
 + java.util.NavigableMap(since Java 1.6)
++ java.util.concurrent.ConcurrentMap(since Java 1.5)
++ java.util.concurrent.ConcurrentNavigableMap(since Java 1.6)
+
 
 
 
