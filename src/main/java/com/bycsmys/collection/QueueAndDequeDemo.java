@@ -1,4 +1,4 @@
-package com.bycsmys.collections;
+package com.bycsmys.collection;
 
 import java.util.LinkedList;
 import java.util.Queue;

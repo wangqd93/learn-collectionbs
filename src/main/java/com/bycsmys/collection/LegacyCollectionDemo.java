@@ -1,6 +1,5 @@
-package com.bycsmys.collections;
+package com.bycsmys.collection;
 
-import java.util.Enumeration;
 import java.util.StringTokenizer;
 import java.util.Vector;
 

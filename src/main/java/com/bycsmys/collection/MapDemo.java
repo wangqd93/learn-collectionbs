@@ -1,8 +1,7 @@
-package com.bycsmys.collections;
+package com.bycsmys.collection;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Objects;
 
 public class MapDemo {
 

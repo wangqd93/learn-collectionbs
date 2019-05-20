@@ -6,4 +6,6 @@ package com.bycsmys.algo;
  * https://en.wikipedia.org/wiki/Rendezvous_hashing
  */
 public class ConsistentHash {
+
+
 }
